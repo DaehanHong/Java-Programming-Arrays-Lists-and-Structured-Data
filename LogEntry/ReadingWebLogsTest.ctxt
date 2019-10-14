@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ReadingWebLogsTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ LogEntryTest()
+comment4.params=
+comment4.target=void\ LogAnalyzerTest()
+numComments=5
