@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=VigenereBreaker
+comment1.params=message\ whichSlice\ totalSlices
+comment1.target=java.lang.String\ sliceString(java.lang.String,\ int,\ int)
+comment1.text=\ The\ method\ returns\ a\ String\ consisting\ of\ every\ totalSlices-th\ character\ from\ message,\ \r\n\ \ starting\ at\ the\ whichSlice-th\ character.\r\n
+comment2.params=encrypted\ klength\ mostCommon
+comment2.target=int[]\ tryKeyLength(java.lang.String,\ int,\ char)
+comment2.text=The\ method\ finds\ the\ shift\ for\ each\ index\ in\ the\ key
+comment3.params=
+comment3.target=void\ breakVigenere()
+numComments=4
