@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WordLengths
+comment0.text=\r\n\ Keeps\ track\ of\ how\ many\ words\ from\ a\ file\ are\ of\ each\ possible\ length,\ \r\n\ and\ figures\ out\ the\ most\ common\ word\ length.\r\n\ \r\n\ @author\ Brienna\ Herold\r\n\ @version\ Nov.\ 5,\ 2016\r\n
+comment1.params=resource\ counts
+comment1.target=void\ countWordLengths(edu.duke.FileResource,\ int[])
+comment1.text=\r\n\ Reads\ in\ the\ words\ from\ resource\ and\ counts\ the\ number\ of\ words\ of\ each\ length.\r\n\ @parameter\ resource\ is\ the\ FileResource\ to\ read\ words\ from\r\n\ @parameter\ counts\ is\ an\ array\ containing\ counts\ of\ each\ length,\ the\ indexes\ being\ the\ lengths\r\n
+comment2.params=
+comment2.target=void\ testCountWordLengths()
+comment3.params=values
+comment3.target=int\ indexOfMax(int[])
+comment3.text=\r\n\ Returns\ the\ index\ position\ of\ the\ largest\ element\ in\ values.\r\n\ @parameter\ values\ is\ the\ array\ to\ search\r\n
+numComments=4
